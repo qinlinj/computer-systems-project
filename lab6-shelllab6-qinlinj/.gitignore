@@ -1,0 +1,14 @@
+# Editor debris
+*~
+\#*#
+.#*
+.*.sw[op]
+._*
+
+# Build artifacts
+*.o
+/sdriver
+/runtrace
+/tsh
+/tshlab-handin.tar
+/doc/

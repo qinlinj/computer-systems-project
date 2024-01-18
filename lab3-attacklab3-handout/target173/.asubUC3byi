@@ -1,0 +1,14 @@
+student     = qinlinj
+target_id   = 173
+target_type = c
+level       = 0
+-->8--
+FAIL: No exploit, read_and_process_line returned normally.
+-->8--
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F2 2B 40 00 00 00 00 00 
+-->8--
+Previous Scores for 18x13-f23:attacklab
+
+| version | phase1 (10.0) | phase2 (25.0) | phase3 (25.0) | phase4 (35.0) | phase5 (5.0) | 
++---------+---------------+---------------+---------------+---------------+--------------+
+[empty]
